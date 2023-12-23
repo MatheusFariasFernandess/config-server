@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: demo-app
   datasource:
     url: jdbc:postgresql://localhost:5432/crud
     username: postgres
